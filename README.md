@@ -1,1 +1,1 @@
-# mitest_10
+Electronic calculators contain a keyboard with buttons for digits and arithmetical operations; some even contain "00" and "000" buttons to make larger or smaller numbers easier to enter. Most basic calculators assign only one digit or operation on each button; however, in more specific calculators, a button can perform multi-function working with key combinations.
